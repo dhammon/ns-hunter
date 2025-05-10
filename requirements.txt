@@ -1,0 +1,6 @@
+dnspython
+pydig
+python-whois
+tldextract
+tqdm
+pyyaml
